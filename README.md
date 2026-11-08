@@ -19,3 +19,18 @@ This repo has the code from my YouTube series **Java OOP Crash Course**. It take
 | 6 | Inheritance | extends, super, reusing code | Coming soon |
 | 7 | Interfaces and Polymorphism | Contracts, abstraction, one call with many behaviours | Coming soon |
 | 8 | Build a Mini AI Chatbot | Everything together: a chatbot you can talk to | Coming soon |
+
+## How to run the code
+
+1. Install a Java JDK (I use Eclipse Temurin 25 from adoptium.net).
+2. Install VS Code and the **Extension Pack for Java** by Microsoft.
+3. Download this repo: click the green **Code** button, then **Download ZIP**, and unzip it.
+4. Open one episode folder in VS Code (for example `ep03`), open `Main.java` and click **Run**.
+
+Or, in a terminal inside the episode folder:
+
+    java Main.java
+
+## About Nova
+
+Nova is a rule-based chatbot: she answers using keyword checks, not a real AI service, so the code runs without any API key. Because she's built around an interface (episode 7), a real AI model could be plugged in later without changing the rest of the code.
