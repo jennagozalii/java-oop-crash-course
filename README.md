@@ -11,14 +11,14 @@ This repo has the code from my YouTube series **Java OOP Crash Course**. It take
 
 | # | Video | What you learn | Code |
 |---|-------|----------------|------|
-| 1 | How to Install Java in VS Code | JDK, VS Code setup, your first program | Coming soon |
-| 2 | Java Basics | Variables, data types, if/else, loops | Coming soon |
-| 3 | Classes and Objects | Blueprints and the things built from them | Coming soon |
-| 4 | Constructors and Methods | Building objects in one line, methods that return values | Coming soon |
-| 5 | Encapsulation | private fields, getters, protecting data | Coming soon |
-| 6 | Inheritance | extends, super, reusing code | Coming soon |
-| 7 | Interfaces and Polymorphism | Contracts, abstraction, one call with many behaviours | Coming soon |
-| 8 | Build a Mini AI Chatbot | Everything together: a chatbot you can talk to | Coming soon |
+| 1 | [How to Install Java in VS Code](VIDEO-1-LINK) | JDK, VS Code setup, your first program | [ep01](./ep01) |
+| 2 | [Java Basics](VIDEO-2-LINK) | Variables, data types, if/else, loops | [ep02](./ep02) |
+| 3 | [Classes and Objects](VIDEO-3-LINK) | Blueprints and the things built from them | [ep03](./ep03) |
+| 4 | [Constructors and Methods](VIDEO-4-LINK) | Building objects in one line, methods that return values | [ep04](./ep04) |
+| 5 | [Encapsulation](VIDEO-5-LINK) | private fields, getters, protecting data | [ep05](./ep05) |
+| 6 | [Inheritance](VIDEO-6-LINK) | extends, super, reusing code | [ep06](./ep06) |
+| 7 | [Interfaces and Polymorphism](VIDEO-7-LINK) | Contracts, abstraction, one call with many behaviours | [ep07](./ep07) |
+| 8 | [Build a Mini AI Chatbot](VIDEO-8-LINK) | Everything together: a chatbot you can talk to | [ep08](./ep08) |
 
 ## How to run the code
 
