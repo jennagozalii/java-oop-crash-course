@@ -8,7 +8,7 @@ The four building blocks of every program, using our chatbot Nova as the example
 - Making decisions with if/else
 - Repeating code with a for loop
 
-▶️ **Watch:** [YouTube](VIDEO-2-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/o9-EDksBNTg)
 
 ## Run it
 
