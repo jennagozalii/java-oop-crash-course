@@ -9,7 +9,7 @@ How apps can swap between AI models without being rewritten: abstraction and pol
 - The for-each loop
 - Why code that depends on an interface is easy to extend
 
-▶️ **Watch:** [YouTube](VIDEO-7-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/-ENTrqvFxmQ)
 
 ## Run it
 
