@@ -9,7 +9,7 @@ Keep an object's data safe: the first pillar of object-oriented programming.
 - Putting rules inside methods (no credits, no answer)
 - Masking an API key so only the last 4 characters show
 
-▶️ **Watch:** [YouTube](VIDEO-5-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/LZ1223bW9Bk)
 
 ## Run it
 
