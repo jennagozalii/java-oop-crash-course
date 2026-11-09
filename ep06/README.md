@@ -8,7 +8,7 @@ Write code once in a parent class, and reuse it in every child: the second pilla
 - The difference between `private` and `protected`
 - Adding new fields and methods only the child has
 
-▶️ **Watch:** [YouTube](VIDEO-6-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/RNicq-HweSs)
 
 ## Run it
 
