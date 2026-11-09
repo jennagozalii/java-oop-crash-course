@@ -8,7 +8,7 @@ Build an object in one line, and teach Nova to answer questions.
 - Methods that take input (parameters) and give back a result (return)
 - Why return is often more useful than printing
 
-▶️ **Watch:** [YouTube](VIDEO-4-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/pHeC_WJ6St8)
 
 ## Run it
 
