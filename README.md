@@ -12,7 +12,7 @@ This repo has the code from my YouTube series **Java OOP Crash Course**. It take
 | 1 | [How to Install Java in VS Code](https://youtu.be/Nm2tahz4x3w) | JDK, VS Code setup, your first program | [ep01](./ep01) |
 | 2 | [Java Basics](https://youtu.be/o9-EDksBNTg) | Variables, data types, if/else, loops | [ep02](./ep02) |
 | 3 | [Classes and Objects](https://youtu.be/kz1W5ooNfQ4) | Blueprints and the things built from them | [ep03](./ep03) |
-| 4 | [Constructors and Methods](VIDEO-4-LINK) | Building objects in one line, methods that return values | [ep04](./ep04) |
+| 4 | [Constructors and Methods](https://youtu.be/pHeC_WJ6St8) | Building objects in one line, methods that return values | [ep04](./ep04) |
 | 5 | [Encapsulation](VIDEO-5-LINK) | private fields, getters, protecting data | [ep05](./ep05) |
 | 6 | [Inheritance](VIDEO-6-LINK) | extends, super, reusing code | [ep06](./ep06) |
 | 7 | [Interfaces and Polymorphism](VIDEO-7-LINK) | Contracts, abstraction, one call with many behaviours | [ep07](./ep07) |
