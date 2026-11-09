@@ -1,7 +1,5 @@
 # Java OOP Crash Course: Build an AI Chatbot
 
-Hi, I'm Jenna, a data analyst based in Kuala Lumpur.
-
 This repo has the code from my YouTube series **Java OOP Crash Course**. It takes complete beginners from installing Java to building a small chatbot called Nova, one concept at a time. Every episode adds a new piece to Nova, so you learn object-oriented programming by building something real.
 
 ▶️ **YouTube playlist:** [Java OOP Crash Course](https://www.youtube.com/playlist?list=PLJ5rrdqu0XNw)
