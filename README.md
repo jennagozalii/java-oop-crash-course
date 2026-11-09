@@ -15,7 +15,7 @@ This repo has the code from my YouTube series **Java OOP Crash Course**. It take
 | 4 | [Constructors and Methods](https://youtu.be/pHeC_WJ6St8) | Building objects in one line, methods that return values | [ep04](./ep04) |
 | 5 | [Encapsulation](https://youtu.be/LZ1223bW9Bk) | private fields, getters, protecting data | [ep05](./ep05) |
 | 6 | [Inheritance](https://youtu.be/RNicq-HweSs) | extends, super, reusing code | [ep06](./ep06) |
-| 7 | [Interfaces and Polymorphism](VIDEO-7-LINK) | Contracts, abstraction, one call with many behaviours | [ep07](./ep07) |
+| 7 | [Interfaces and Polymorphism](https://youtu.be/-ENTrqvFxmQ) | Contracts, abstraction, one call with many behaviours | [ep07](./ep07) |
 | 8 | [Build a Mini AI Chatbot](VIDEO-8-LINK) | Everything together: a chatbot you can talk to | [ep08](./ep08) |
 
 ## How to run the code
