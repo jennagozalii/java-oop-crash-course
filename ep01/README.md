@@ -8,7 +8,7 @@ Set up everything you need to write Java, then run your first program.
 - The structure of a Java program: class, main method, println
 - Two beginner mistakes: a missing semicolon, and a class name that doesn't match the file name
 
-▶️ **Watch:** [YouTube](VIDEO-1-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/Nm2tahz4x3w)
 
 ## Run it
 
