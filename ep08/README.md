@@ -12,7 +12,7 @@ Everything from the series in one working program: a chatbot called Nova that yo
 - `ArrayList` to keep a chat history that grows
 - A `while` loop with `break` to keep the chat going until you say bye
 
-▶️ **Watch:** [YouTube](VIDEO-8-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/7-pY_YFpbd8)
 
 ## Run it
 
