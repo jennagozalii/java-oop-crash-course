@@ -8,7 +8,7 @@ The heart of Java: a class is a blueprint, and an object is a real thing built f
 - How each object keeps its own data
 - Why forgetting `new` causes an error
 
-▶️ **Watch:** [YouTube](VIDEO-3-LINK)
+▶️ **Watch:** [YouTube](https://youtu.be/kz1W5ooNfQ4)
 
 ## Run it
 
